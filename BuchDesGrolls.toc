@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Book of Grudges
+## Title-deDE: Buch des Grolls
+## Notes: Remembers players you can't stand and does /rude whenever you see them.
+## Notes-deDE: Merkt sich Spieler, die du Kacke findest, und macht /rude, sobald du sie siehst.
+## Version: 2.1
+## SavedVariables: BuchDesGrollsDB
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+## AddonCompartmentFunc: BuchDesGrolls_OnCompartmentClick
+
+BuchDesGrolls.lua
